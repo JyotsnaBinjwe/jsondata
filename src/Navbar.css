@@ -1,0 +1,25 @@
+.navbar{
+    list-style-type: none;
+    background-color: black;
+    padding: 20px 10px;
+
+  }
+.navbar li{
+    list-style-type: none;
+    display: inline;
+    margin:20px;
+    margin-right: 20px;
+  }
+.nav-bar-link{
+    color: wheat;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 20px 10px;
+
+
+  }
+  .nav-bar-link:hover{
+    background-color: grey;
+    color: white;
+  }
+  
